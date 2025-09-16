@@ -82,24 +82,3 @@ Para rodar as soluções deste repositório, siga as instruções abaixo, depend
 
        return 0;
    }
-
------------------
-
-## Estrutura do Repositório
-
-A estrutura deste repositório é organizada de acordo com as linguagens usadas, cada uma em sua respectiva pasta:
-
-beecrowd-solutions/
-│
-├── c/
-│   ├── 1001_Soma_Simples/
-│   ├── etc
-│   └── etc
-│
-├── java/
-│
-├── python/
-|
-└── README.md
-
-.
